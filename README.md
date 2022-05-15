@@ -13,4 +13,4 @@ The project was created with the intent to compare movie data gathered via Axios
 None required as url's to axios and bulma are already implemented into the <head> tag of the index.html file via https://cdnjs.com/. 
   
 ## Start up
-  input .\index.html into the terminal or if using VScode through there live server extension
+  input .\index.html into the terminal or if using VScode through the live server extension
